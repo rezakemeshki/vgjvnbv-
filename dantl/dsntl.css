@@ -1,0 +1,164 @@
+.box {
+     width: 400px;
+     height: 200px;
+     background-color: black;
+     margin: auto;
+     border-radius: 15px;
+ }
+ body {
+    background-color: rgb(179, 189, 189);
+ }
+
+ .mtn {
+     color: wheat;
+     padding-left: 15px;
+     padding-top: 20px;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+
+ .text {
+     text-align: right;
+     color: wheat;
+     padding-right: 15px;
+     padding-top: 50px;
+ }
+
+ .text-input {
+     width: 340px;
+     padding-top: 5px;
+     border-radius: 5px;
+     padding-bottom: 5px;
+     margin-left: 25px;
+     margin-top: 5px;
+     background-color: black;
+ }
+
+ .btn {
+     background-color: rgb(145, 86, 201);
+     
+     border-radius: 15px;
+     float: right;
+width: 50px;
+height: 30px;
+margin-top: 15px;
+margin-left: 5px;
+margin-right: 20px;
+ }
+
+ .btn1 {
+     float: right;
+     width: 50px;
+height: 30px;
+border-radius: 20px;
+background-color: rgb(0, 0, 0) ;
+color: rgb(145, 86, 201);
+width: 60px;
+height: 30px;
+margin-top: 15px;
+ }
+  .box-wheat {
+    width: 400px;
+    height: 370px;
+    background-color: white;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 5px;
+  }
+   .h1{
+    padding-top: 25px;
+    padding-left:125px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   }
+   .input-text {
+    width: 340px;
+     padding-top: 5px;
+     margin-left: 25px;
+     margin-top: 5px;
+   }
+   .input1 {
+    width: 340px;
+     padding-top: 5px;
+     margin-left: 25px;
+     margin-top: 5px;
+   }
+   .input2 {
+    width: 340px;
+     padding-top: 5px;
+     margin-left: 25px;
+     margin-top: 5px;
+     height: 20px;
+   }
+    .but {
+        width: 347px;
+     padding-top: 5px;
+     margin-left: 25px;
+     margin-top: 5px;
+     height: 20px;
+     background-color: green;
+        height: 25px;
+      
+    }
+.input-tr {
+   
+    
+    margin-left: 100px;
+    margin-top: 5px;
+}
+.tr-box { 
+    width: 340px;
+    height: 100px;
+    background-color: rgb(175, 175, 141);
+    margin: auto;
+    margin-top: 15px;
+    
+   
+}
+.todo {
+    padding-left: 15px;
+    padding-bottom: 8px;
+    padding-top: 5px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+display: inline-block;
+
+} 
+.namebur {
+    padding-left: 15px;
+    padding-bottom: 8px;
+    padding-top: 5px;
+    display: inline-block;
+    
+}
+ .list-todo {
+    padding-left: 15px;
+    padding-bottom: 8px;
+    padding-top: 5px;
+    display: inline;
+    
+ }
+ .but12 {
+    background-color: rgb(194, 35, 29);
+    float: right;
+    
+   margin-left: 10px;
+   margin-right: 6px;
+ }
+ .but13 {
+    background-color: rgb(194, 35, 29);
+    float: right;
+    margin-bottom: 50px;
+    
+
+ }
+ .but14 {
+    background-color: yellow;
+    float: right;
+    /* margin-bottom: 200px; */
+   margin-right: 10px;
+ 
+ }
+ 
+
+
+
+ /* border-top: 1px solid rgb(255, 253, 253); */
+;
